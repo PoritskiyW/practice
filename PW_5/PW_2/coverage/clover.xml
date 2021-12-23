@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1640291451010" clover="3.2.0">
+  <project timestamp="1640291451010" name="All files">
+    <metrics statements="34" coveredstatements="34" conditionals="28" coveredconditionals="28" methods="3" coveredmethods="3" elements="65" coveredelements="65" complexity="0" loc="34" ncloc="34" packages="2" files="4" classes="4"/>
+    <package name="PW_2">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="jest.config.js" path="C:\Users\AngryDev\Desktop\tests\PW_2\jest.config.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="PW_2.src">
+      <metrics statements="33" coveredstatements="33" conditionals="28" coveredconditionals="28" methods="3" coveredmethods="3"/>
+      <file name="isAnagram.js" path="C:\Users\AngryDev\Desktop\tests\PW_2\src\isAnagram.js">
+        <metrics statements="14" coveredstatements="14" conditionals="10" coveredconditionals="10" methods="1" coveredmethods="1"/>
+        <line num="2" count="6" type="cond" truecount="4" falsecount="0"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="4" type="cond" truecount="4" falsecount="0"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="11" count="3" type="stmt"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="14" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+      </file>
+      <file name="logNumbers.js" path="C:\Users\AngryDev\Desktop\tests\PW_2\src\logNumbers.js">
+        <metrics statements="13" coveredstatements="13" conditionals="14" coveredconditionals="14" methods="1" coveredmethods="1"/>
+        <line num="2" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="7" count="8" type="cond" truecount="4" falsecount="0"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="11" count="7" type="stmt"/>
+        <line num="12" count="45" type="cond" truecount="4" falsecount="0"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="44" type="cond" truecount="2" falsecount="0"/>
+        <line num="15" count="12" type="stmt"/>
+        <line num="16" count="32" type="cond" truecount="2" falsecount="0"/>
+        <line num="17" count="6" type="stmt"/>
+        <line num="19" count="26" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+      </file>
+      <file name="outOfCycle.js" path="C:\Users\AngryDev\Desktop\tests\PW_2\src\outOfCycle.js">
+        <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="16" type="stmt"/>
+        <line num="4" count="316" type="cond" truecount="4" falsecount="0"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="315" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

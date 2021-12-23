@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1640288150890" clover="3.2.0">
+  <project timestamp="1640288150891" name="All files">
+    <metrics statements="55" coveredstatements="55" conditionals="45" coveredconditionals="45" methods="4" coveredmethods="4" elements="104" coveredelements="104" complexity="0" loc="55" ncloc="55" packages="1" files="4" classes="4"/>
+    <file name="checkParam.js" path="C:\Users\AngryDev\Desktop\tests\PW_1\src\checkParam.js">
+      <metrics statements="17" coveredstatements="17" conditionals="12" coveredconditionals="12" methods="1" coveredmethods="1"/>
+      <line num="2" count="8" type="stmt"/>
+      <line num="3" count="8" type="stmt"/>
+      <line num="4" count="8" type="stmt"/>
+      <line num="6" count="8" type="cond" truecount="4" falsecount="0"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="11" count="7" type="cond" truecount="2" falsecount="0"/>
+      <line num="12" count="3" type="stmt"/>
+      <line num="13" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="14" count="2" type="stmt"/>
+      <line num="15" count="2" type="stmt"/>
+      <line num="19" count="4" type="stmt"/>
+      <line num="23" count="7" type="cond" truecount="2" falsecount="0"/>
+      <line num="24" count="5" type="stmt"/>
+      <line num="28" count="7" type="cond" truecount="2" falsecount="0"/>
+      <line num="29" count="3" type="stmt"/>
+      <line num="32" count="7" type="stmt"/>
+      <line num="35" count="1" type="stmt"/>
+    </file>
+    <file name="isPalindrome.js" path="C:\Users\AngryDev\Desktop\tests\PW_1\src\isPalindrome.js">
+      <metrics statements="12" coveredstatements="12" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+      <line num="2" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="9" count="4" type="stmt"/>
+      <line num="12" count="4" type="stmt"/>
+      <line num="13" count="4" type="stmt"/>
+      <line num="15" count="4" type="stmt"/>
+      <line num="16" count="18" type="cond" truecount="2" falsecount="0"/>
+      <line num="17" count="4" type="stmt"/>
+      <line num="21" count="4" type="stmt"/>
+      <line num="24" count="1" type="stmt"/>
+    </file>
+    <file name="isPasswordValid.js" path="C:\Users\AngryDev\Desktop\tests\PW_1\src\isPasswordValid.js">
+      <metrics statements="17" coveredstatements="17" conditionals="16" coveredconditionals="16" methods="1" coveredmethods="1"/>
+      <line num="3" count="11" type="stmt"/>
+      <line num="5" count="11" type="cond" truecount="2" falsecount="0"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="10" type="cond" truecount="4" falsecount="0"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="12" count="9" type="cond" truecount="4" falsecount="0"/>
+      <line num="13" count="4" type="stmt"/>
+      <line num="16" count="5" type="stmt"/>
+      <line num="18" count="5" type="stmt"/>
+      <line num="19" count="50" type="cond" truecount="2" falsecount="0"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="21" count="49" type="cond" truecount="2" falsecount="0"/>
+      <line num="22" count="2" type="stmt"/>
+      <line num="26" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="27" count="2" type="stmt"/>
+      <line num="29" count="2" type="stmt"/>
+      <line num="33" count="1" type="stmt"/>
+    </file>
+    <file name="sumArguments.js" path="C:\Users\AngryDev\Desktop\tests\PW_1\src\sumArguments.js">
+      <metrics statements="9" coveredstatements="9" conditionals="11" coveredconditionals="11" methods="1" coveredmethods="1"/>
+      <line num="2" count="8" type="cond" truecount="2" falsecount="0"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="6" count="7" type="cond" truecount="4" falsecount="0"/>
+      <line num="7" count="2" type="stmt"/>
+      <line num="10" count="5" type="cond" truecount="5" falsecount="0"/>
+      <line num="11" count="4" type="stmt"/>
+      <line num="14" count="5" type="stmt"/>
+      <line num="15" count="5" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
